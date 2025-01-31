@@ -23,6 +23,6 @@ This model is trained with `hamlet.txt` for predictiing the next word. Select on
 
 ## Runnig platform
 
-This application is running on streamlit which is written in python. To test the application please click on [Streamlit App](http://example.com)
+This application is running on streamlit which is written in python. To test the application please click on [Streamlit App](https://lstmrnnnextwordprediction-p9yywanedxxhmgxwfu7cse.streamlit.app/)
 
 
