@@ -15,6 +15,14 @@ This project aims to develop a deep learning model for predicting the next word 
 
 6- Deployment: A Streamlit web application is developed to allow users to input a sequence of words and get the predicted next word in real-time.
 
+## How it works
+This model is trained with `hamlet.txt` for predictiing the next word. Select one sentence from the hamlet.txt and enter the  input bar and the next word will be predicted as below example:
+`[The Tragedie of Hamlet by William Shakespeare 1599]`
+
+![How it works](./pictures/how_it_works.png)
+
 ## Runnig platform
 
-This application is running on streamlit which is written in python. To test the application please click on ``
+This application is running on streamlit which is written in python. To test the application please click on [Streamlit App](http://example.com)
+
+
